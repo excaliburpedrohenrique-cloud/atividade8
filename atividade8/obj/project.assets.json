@@ -8,24 +8,31 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\18054082401\\.nuget\\packages\\": {}
+    "C:\\Users\\18054082401\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\18054082401\\Desktop\\atividades\\atividade8\\atividade8\\atividade8.csproj",
+      "projectUniqueName": "C:\\Users\\18054082401\\Desktop\\Nova pasta\\atividade8\\atividade8\\atividade8\\atividade8.csproj",
       "projectName": "atividade8",
-      "projectPath": "C:\\Users\\18054082401\\Desktop\\atividades\\atividade8\\atividade8\\atividade8.csproj",
+      "projectPath": "C:\\Users\\18054082401\\Desktop\\Nova pasta\\atividade8\\atividade8\\atividade8\\atividade8.csproj",
       "packagesPath": "C:\\Users\\18054082401\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\18054082401\\Desktop\\atividades\\atividade8\\atividade8\\obj\\",
+      "outputPath": "C:\\Users\\18054082401\\Desktop\\Nova pasta\\atividade8\\atividade8\\atividade8\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "C:\\Users\\18054082401\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\18054082401\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {

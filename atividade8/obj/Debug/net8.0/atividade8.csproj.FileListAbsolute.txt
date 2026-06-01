@@ -12,3 +12,18 @@ C:\Users\18054082401\Desktop\atividades\atividade8\atividade8\obj\Debug\net8.0\r
 C:\Users\18054082401\Desktop\atividades\atividade8\atividade8\obj\Debug\net8.0\atividade8.pdb
 C:\Users\18054082401\Desktop\atividades\atividade8\atividade8\obj\Debug\net8.0\atividade8.genruntimeconfig.cache
 C:\Users\18054082401\Desktop\atividades\atividade8\atividade8\obj\Debug\net8.0\ref\atividade8.dll
+C:\Users\18054082401\Desktop\Nova pasta\atividade8\atividade8\atividade8\bin\Debug\net8.0\atividade8.exe
+C:\Users\18054082401\Desktop\Nova pasta\atividade8\atividade8\atividade8\bin\Debug\net8.0\atividade8.deps.json
+C:\Users\18054082401\Desktop\Nova pasta\atividade8\atividade8\atividade8\bin\Debug\net8.0\atividade8.runtimeconfig.json
+C:\Users\18054082401\Desktop\Nova pasta\atividade8\atividade8\atividade8\bin\Debug\net8.0\atividade8.dll
+C:\Users\18054082401\Desktop\Nova pasta\atividade8\atividade8\atividade8\bin\Debug\net8.0\atividade8.pdb
+C:\Users\18054082401\Desktop\Nova pasta\atividade8\atividade8\atividade8\obj\Debug\net8.0\atividade8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\18054082401\Desktop\Nova pasta\atividade8\atividade8\atividade8\obj\Debug\net8.0\atividade8.AssemblyInfoInputs.cache
+C:\Users\18054082401\Desktop\Nova pasta\atividade8\atividade8\atividade8\obj\Debug\net8.0\atividade8.AssemblyInfo.cs
+C:\Users\18054082401\Desktop\Nova pasta\atividade8\atividade8\atividade8\obj\Debug\net8.0\atividade8.csproj.CoreCompileInputs.cache
+C:\Users\18054082401\Desktop\Nova pasta\atividade8\atividade8\atividade8\obj\Debug\net8.0\atividade8.sourcelink.json
+C:\Users\18054082401\Desktop\Nova pasta\atividade8\atividade8\atividade8\obj\Debug\net8.0\atividade8.dll
+C:\Users\18054082401\Desktop\Nova pasta\atividade8\atividade8\atividade8\obj\Debug\net8.0\refint\atividade8.dll
+C:\Users\18054082401\Desktop\Nova pasta\atividade8\atividade8\atividade8\obj\Debug\net8.0\atividade8.pdb
+C:\Users\18054082401\Desktop\Nova pasta\atividade8\atividade8\atividade8\obj\Debug\net8.0\atividade8.genruntimeconfig.cache
+C:\Users\18054082401\Desktop\Nova pasta\atividade8\atividade8\atividade8\obj\Debug\net8.0\ref\atividade8.dll
